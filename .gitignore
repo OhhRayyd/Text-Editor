@@ -3,7 +3,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-/javafx-sdk-23.0.2/
+/javafx-sdk-21.0.6/
 
 ### IntelliJ IDEA ###
 .idea/
