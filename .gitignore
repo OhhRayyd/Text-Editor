@@ -6,6 +6,7 @@ target/
 /javafx-sdk-23.0.2/
 
 ### IntelliJ IDEA ###
+.idea/
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
